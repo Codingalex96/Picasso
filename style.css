@@ -1,0 +1,57 @@
+.sun {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px;
+    margin-left: 400px;
+    margin-bottom: 25px;
+
+}
+
+.grass {
+    height: 35px;
+    background-color: green;
+    
+    
+    
+}
+
+.brown {
+    background-color: brown;
+    height: 25px;
+    width: 50px;
+    margin-left: 100px;
+    
+    
+}
+
+.log {
+    background-color: rgb(42, 165, 50);
+    height: px;
+    width: 50px;
+    margin-left: 200px;
+    
+}
+
+.shape {
+    height: 50px;
+    width:300px;
+    background-color: blue;
+    border-radius: 400px;
+}
+
+.sky {
+    height: 75px;
+    
+    background-color: aqua;
+}
+
+
+
+
+
+h2 {
+    font-style: oblique;
+    text-decoration-line: underline;
+}
+

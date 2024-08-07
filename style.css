@@ -4,13 +4,13 @@
     background-color: yellow;
     border-radius: 50px;
     margin-left: 400px;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 
 }
 
 .grass {
     height: 35px;
-    background-color: green;
+    background-color: blueviolet;
     
     
     
@@ -26,7 +26,7 @@
 }
 
 .log {
-    background-color: rgb(42, 165, 50);
+    background-color: green;
     height: px;
     width: 50px;
     margin-left: 200px;
@@ -35,7 +35,7 @@
 
 .shape {
     height: 50px;
-    width:300px;
+    width:500px;
     background-color: blue;
     border-radius: 400px;
 }
@@ -61,3 +61,19 @@ h2 {
         background-color: aqua;
     }
 }
+
+
+
+.shape {
+    position: absolute;
+    z-index: 5;
+
+}
+
+.log {
+    position: absolute;
+    z-index: 7;
+    height: 150px;
+    
+}
+
